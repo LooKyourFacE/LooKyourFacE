@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+[![Visits Badge](https://badges.pufler.dev/visits/LooKyourFacE/LooKyourFacE)](https:LooKyourFacE)
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+[![image]({https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white})](https://www.google.com/)
+
 <!--
 **LooKyourFacE/LooKyourFacE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
