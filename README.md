@@ -12,6 +12,8 @@
 
 <!--
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LooKyourFacE&theme=algolia&show_icons=true)](https://github.com/LooKyourFacE)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LooKyourFacE&layout=compact&theme=algolia)](https://github.com/LooKyourFacE)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=59LH5AHNQ8XZW)
