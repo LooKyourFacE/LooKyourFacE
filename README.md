@@ -5,7 +5,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/LooKyourFacE)](https:LooKyourFacE)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.google.com/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KKyprianidis)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/konskypr)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/konskypr)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LooKyourFacE&theme=algolia&show_icons=true)](https://github.com/LooKyourFacE)
