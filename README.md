@@ -5,9 +5,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.google.com/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KKyprianidis)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LooKyourFacE&theme=algolia)](https://github.com/LooKyourFacE)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LooKyourFacE&theme=algolia&show_icons=true)](https://github.com/LooKyourFacE)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LooKyourFacE&layout=compact&theme=algolia))](https://github.com/LooKyourFacE)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LooKyourFacE&layout=compact&theme=algolia)](https://github.com/LooKyourFacE)
 
 
 
